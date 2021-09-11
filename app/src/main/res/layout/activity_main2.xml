@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:background="@drawable/background_gradient">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WELCOME MRIDUL"
+        android:textSize="45dp"
+        android:layout_centerInParent="true"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#0C46F3"
+        android:gravity="center"
+        />
+
+</RelativeLayout>
